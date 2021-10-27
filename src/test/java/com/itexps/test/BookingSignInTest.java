@@ -58,7 +58,7 @@ public class BookingSignInTest {
     // @Test
     // public void hello() {}
     
-     @Test
+    /* @Test
     public void BookingTestLogin() throws InterruptedException{
         driver.get("http://www.booking.com");
         WebElement e=driver.findElement(By.partialLinkText("Sign in"));
@@ -71,5 +71,5 @@ public class BookingSignInTest {
         e=driver.findElement(By.name("password"));
         e.sendKeys("Selenium@123!");
         e.submit();
-}
+}*/
 }
